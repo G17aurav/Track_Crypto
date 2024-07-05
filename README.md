@@ -43,3 +43,9 @@ Make sure you have Node.js and npm installed on your machine.
 4. Run the application
 
     npm start
+
+### Usage
+
+1. Open your browser and navigate to http://localhost:3000.
+2. Use the search functionality to find and track various cryptocurrencies.
+3. Toggle between dark and light modes using the switch provided in the interface.
