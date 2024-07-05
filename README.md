@@ -2,7 +2,7 @@
 
 Crypto Tracks is a dynamic web application for tracking cryptocurrency prices and market data. It provides real-time information about various cryptocurrencies through an API and includes user-friendly features like a dark/light mode switch and engaging animations for an enhanced user experience.
 
-![Light Mode](assets/images/light-mode.png)
+![Light Mode](https://drive.google.com/file/d/15TWcmaDO4eYmpItpl64aZuggWNb6SGEw/view?usp=sharing)
 ![Dark Mode](assets/images/dark-mode.png)
 
 ## Features
