@@ -32,10 +32,14 @@ Make sure you have Node.js and npm installed on your machine.
    ```sh
    git clone https://github.com/G17aurav/crypto-tracks.git
 
-2. Move into crypto-tracks folder
+2. Navigate to the project directory:
 
     cd crypto-tracks
+   
+3. Install dependencies:
 
-3. Start the server
+    npm install
+   
+4. Run the application
 
     npm start
